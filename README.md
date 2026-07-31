@@ -22,7 +22,7 @@ HIMAYA is not a project at large  it is a effort to connect our people in *Uttar
 
 • ⁠  Design for everyone:* From advanced smartphones to basic phones, our design is clean, fast, and easy on the eyes.
 
-# 🚀 How to start it up
+#  How to start it up
 
 If you're a developer looking to lend a hand or are just experimenting locally:
 
@@ -38,7 +38,7 @@ By doing this, the server is started on port 3000.
 
 A contemporary Progressive Web application is HIMAYA. Simply open frontend/index.html in your browser. It is quick and light.
 
-# 🛠️ Our Toolbox
+#  Our Toolbox
 
 • Simple & Light: To keep things fast, we used Vanilla HTML, CSS, and JS.
 
